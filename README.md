@@ -1,2 +1,2 @@
-# social-media-app
-An example of a social media app
+# private-chat-app
+An example of a real-time chat app with user authentication
